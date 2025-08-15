@@ -1,0 +1,17 @@
+{
+  "name": "ultron-api",
+  "version": "1.0.0",
+  "description": "API para ativação do Ultron",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build completed'",
+    "start": "vercel dev"
+  },
+  "keywords": ["api", "ultron"],
+  "author": "Shadow Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
